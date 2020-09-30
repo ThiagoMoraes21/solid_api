@@ -1,0 +1,19 @@
+{
+  "name": "solid_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoMoraes21/solid_api.git"
+  },
+  "author": "thiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoMoraes21/solid_api/issues"
+  },
+  "homepage": "https://github.com/ThiagoMoraes21/solid_api#readme"
+}
